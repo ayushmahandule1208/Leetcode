@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushmahandule1208/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/ayushmahandule1208/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
