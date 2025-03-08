@@ -30,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/ayushmahandule1208/Leetcode/tree/master/0577-employee-bonus) |
 | [1801-average-time-of-process-per-machine](https://github.com/ayushmahandule1208/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
