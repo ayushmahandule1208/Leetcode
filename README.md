@@ -32,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/ayushmahandule1208/Leetcode/tree/master/0577-employee-bonus) |
 | [1801-average-time-of-process-per-machine](https://github.com/ayushmahandule1208/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayushmahandule1208/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayushmahandule1208/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayushmahandule1208/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
