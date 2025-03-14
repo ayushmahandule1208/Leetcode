@@ -49,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushmahandule1208/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushmahandule1208/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -67,4 +69,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushmahandule1208/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
