@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/ayushmahandule1208/Leetcode/tree/master/0217-contains-duplicate) |
 ## Merge Sort
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushmahandule1208/Leetcode/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushmahandule1208/Leetcode/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/ayushmahandule1208/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayushmahandule1208/Leetcode/tree/master/0238-product-of-array-except-self) |
