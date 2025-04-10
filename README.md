@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayushmahandule1208/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushmahandule1208/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ayushmahandule1208/Leetcode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/ayushmahandule1208/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/ayushmahandule1208/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ayushmahandule1208/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Database
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayushmahandule1208/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/ayushmahandule1208/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/ayushmahandule1208/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushmahandule1208/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayushmahandule1208/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/ayushmahandule1208/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/ayushmahandule1208/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ayushmahandule1208/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0435-non-overlapping-intervals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ayushmahandule1208/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
