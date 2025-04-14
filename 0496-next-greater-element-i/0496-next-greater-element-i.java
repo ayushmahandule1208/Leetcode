@@ -1,30 +1,20 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        List<Integer> result = new ArrayList<>();
+      int[] res = new int[nums1.length];
+      Stack<Integer> st = new Stack<>();
+      HashMap<Integer,Integer> hm = new HashMap<>();
 
-        for (int num : nums1) {
-            int index = -1;
-
-            // Find the index of num in nums2
-            for (int i = 0; i < nums2.length; i++) {
-                if (nums2[i] == num) {
-                    index = i;
-                    break;
-                }
-            }
-
-            // Look for the next greater element to the right
-            int nextGreater = -1;
-            for (int j = index + 1; j < nums2.length; j++) {
-                if (nums2[j] > num) {
-                    nextGreater = nums2[j];
-                    break;
-                }
-            }
-
-            result.add(nextGreater);
+      for(int num:nums2){
+        while(!st.isEmpty() && num>st.peek()){
+            hm.put(st.pop(),num);
         }
+        st.push(num);
+      }
+      int i=0;
+      for(int num:nums1){
+        res[i++] = hm.getOrDefault(num,-1);
 
-        return result.stream().mapToInt(i -> i).toArray();
+      }
+      return res;
     }
 }
