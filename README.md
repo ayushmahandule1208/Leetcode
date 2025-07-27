@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushmahandule1208/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ayushmahandule1208/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ayushmahandule1208/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0148-sort-list) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ayushmahandule1208/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/ayushmahandule1208/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushmahandule1208/Leetcode/tree/master/0242-valid-anagram) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ayushmahandule1208/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushmahandule1208/Leetcode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/ayushmahandule1208/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushmahandule1208/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ayushmahandule1208/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ayushmahandule1208/Leetcode/tree/master/0189-rotate-array) |
