@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayushmahandule1208/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushmahandule1208/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ayushmahandule1208/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushmahandule1208/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/ayushmahandule1208/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ayushmahandule1208/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Database
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/ayushmahandule1208/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ayushmahandule1208/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushmahandule1208/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/ayushmahandule1208/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayushmahandule1208/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayushmahandule1208/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushmahandule1208/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Segment Tree
 |  |
