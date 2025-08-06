@@ -1,7 +1,10 @@
 class Solution {
     public int getSum(int a, int b) {
-        int res = 0;
-        res = a + b;
-        return res;
+        while (b != 0) {
+            int carry = (a & b) << 1;
+            a = a ^ b;
+            b = carry; 
+        }
+        return a;
     }
 }
