@@ -4,10 +4,10 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             int complement = target - nums[i];
             if(hm.containsKey(complement)){
-                return new int[]{hm.get(complement),i};
+                return new int[] {hm.get(complement),i};
             }
             hm.put(nums[i],i);
         }
-        return new int[]{};
+        return new int[] {};
     }
 }
