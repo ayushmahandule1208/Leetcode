@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushmahandule1208/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/ayushmahandule1208/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayushmahandule1208/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ayushmahandule1208/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushmahandule1208/Leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ayushmahandule1208/Leetcode/tree/master/0075-sort-colors) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayushmahandule1208/Leetcode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayushmahandule1208/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushmahandule1208/Leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ayushmahandule1208/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
