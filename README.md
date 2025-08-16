@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayushmahandule1208/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushmahandule1208/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushmahandule1208/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushmahandule1208/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushmahandule1208/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushmahandule1208/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayushmahandule1208/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushmahandule1208/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushmahandule1208/Leetcode/tree/master/0268-missing-number) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ayushmahandule1208/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ayushmahandule1208/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushmahandule1208/Leetcode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushmahandule1208/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayushmahandule1208/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayushmahandule1208/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayushmahandule1208/Leetcode/tree/master/0268-missing-number) |
@@ -241,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushmahandule1208/Leetcode/tree/master/0054-spiral-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushmahandule1208/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushmahandule1208/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
