@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayushmahandule1208/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushmahandule1208/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ayushmahandule1208/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushmahandule1208/Leetcode/tree/master/0283-move-zeroes) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushmahandule1208/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ayushmahandule1208/Leetcode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ayushmahandule1208/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushmahandule1208/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushmahandule1208/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
