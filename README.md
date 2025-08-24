@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ayushmahandule1208/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushmahandule1208/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0812-rotate-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushmahandule1208/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushmahandule1208/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayushmahandule1208/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayushmahandule1208/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushmahandule1208/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
