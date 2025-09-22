@@ -11,10 +11,9 @@ class Solution {
         int max = 0;
         int elem = -1;
         int total = 0;
-        for (Map.Entry<Integer, Integer> entry : hm.entrySet()) {
-            if (entry.getValue() > max) {
-                max = entry.getValue();
-                elem = entry.getKey();
+        for (int freq:hm.values()) {
+            if (freq > max) {
+                max = freq;
             }
         }
 
