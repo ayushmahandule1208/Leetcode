@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/ayushmahandule1208/Leetcode/tree/master/1127-last-stone-weight) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayushmahandule1208/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ayushmahandule1208/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayushmahandule1208/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ayushmahandule1208/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushmahandule1208/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushmahandule1208/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayushmahandule1208/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ayushmahandule1208/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushmahandule1208/Leetcode/tree/master/0054-spiral-matrix) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ayushmahandule1208/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayushmahandule1208/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
