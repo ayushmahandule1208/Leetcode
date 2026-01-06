@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ayushmahandule1208/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/ayushmahandule1208/Leetcode/tree/master/1127-last-stone-weight) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushmahandule1208/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayushmahandule1208/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ayushmahandule1208/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayushmahandule1208/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -197,12 +198,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushmahandule1208/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/ayushmahandule1208/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushmahandule1208/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayushmahandule1208/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushmahandule1208/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushmahandule1208/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Segment Tree
 |  |
 | ------- |
