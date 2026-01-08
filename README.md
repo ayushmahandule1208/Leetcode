@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ayushmahandule1208/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushmahandule1208/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushmahandule1208/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/ayushmahandule1208/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ayushmahandule1208/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ayushmahandule1208/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/ayushmahandule1208/Leetcode/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/ayushmahandule1208/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ayushmahandule1208/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/ayushmahandule1208/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ayushmahandule1208/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/ayushmahandule1208/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ayushmahandule1208/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ayushmahandule1208/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ayushmahandule1208/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Union Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ayushmahandule1208/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
