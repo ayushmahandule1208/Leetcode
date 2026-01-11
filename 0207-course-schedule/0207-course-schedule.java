@@ -1,49 +1,31 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
-        for(int i=0;i<numCourses;i++){
-            graph.add(new ArrayList<>());
-        }
-
-        int[] indegree =  new int[numCourses];
-
-        for(int[] pre: prerequisites){
-            int course2 = pre[0];
-            int course1 = pre[1];
-
-            graph.get(course1).add(course2);
-            indegree[course2]++;
-        }
-
-        return !hasCycle(graph,indegree,numCourses);
-    }
-
-    public boolean hasCycle(ArrayList<ArrayList<Integer>> graph,int[] indegree, int numCourses){
-        Queue<Integer> q = new LinkedList<>();
-
-        for(int i=0;i<numCourses;i++){
-            if(indegree[i]==0){
-                q.add(i);
-            }
-        }
-
-        int cnt = 0;
-        while(!q.isEmpty()){
-            int course = q.poll();
-            cnt++;
-
-            for(int ne: graph.get(course)){
-                indegree[ne]--;
-                if(indegree[ne]==0){
-                    q.add(ne);
+        boolean[] vis = new boolean[numCourses];
+        for(int i=0;i<prerequisites.length;i++){
+            if(!vis[i]){
+                if(detectCycle(prerequisites, vis, i, -1)){
+                    return true;
                 }
             }
         }
-        if(cnt==numCourses){
-            return false;
+        return false;
+    }
+
+    public boolean detectCycle(int[][] prerequisites,boolean[] vis, int curr, int par){
+        vis[curr] = true;
+        for(int i=0;i<prerequisites[curr].length;i++){
+            int neigh = prerequisites[curr][i];
+
+            if(vis[neigh] && neigh != par){
+                return true;
+            }
+
+            else if(!vis[neigh]){
+              if(detectCycle(prerequisites, vis, neigh, curr)){
+                return true;
+              }
+            }
         }
-        else{
-            return true;
-        }
+        return false;
     }
 }
