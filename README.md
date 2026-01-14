@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/ayushmahandule1208/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1127-last-stone-weight](https://github.com/ayushmahandule1208/Leetcode/tree/master/1127-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushmahandule1208/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayushmahandule1208/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ayushmahandule1208/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/ayushmahandule1208/Leetcode/tree/master/0542-01-matrix) |
+| [1049-last-stone-weight-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Greedy
 |  |
 | ------- |
