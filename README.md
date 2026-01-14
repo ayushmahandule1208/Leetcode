@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushmahandule1208/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushmahandule1208/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ayushmahandule1208/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/ayushmahandule1208/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayushmahandule1208/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ayushmahandule1208/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ayushmahandule1208/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayushmahandule1208/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/ayushmahandule1208/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/ayushmahandule1208/Leetcode/tree/master/0542-01-matrix) |
 ## Greedy
