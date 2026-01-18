@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ayushmahandule1208/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ayushmahandule1208/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/ayushmahandule1208/Leetcode/tree/master/0645-set-mismatch) |
+| [0860-lemonade-change](https://github.com/ayushmahandule1208/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/ayushmahandule1208/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/ayushmahandule1208/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushmahandule1208/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ayushmahandule1208/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayushmahandule1208/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ayushmahandule1208/Leetcode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/ayushmahandule1208/Leetcode/tree/master/0860-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
