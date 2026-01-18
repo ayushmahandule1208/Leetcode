@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ayushmahandule1208/Leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ayushmahandule1208/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushmahandule1208/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmahandule1208/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayushmahandule1208/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ayushmahandule1208/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ayushmahandule1208/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ayushmahandule1208/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ayushmahandule1208/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -414,5 +416,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ayushmahandule1208/Leetcode/tree/master/0090-subsets-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushmahandule1208/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
