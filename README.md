@@ -318,11 +318,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayushmahandule1208/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/ayushmahandule1208/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ayushmahandule1208/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ayushmahandule1208/Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/ayushmahandule1208/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ayushmahandule1208/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ayushmahandule1208/Leetcode/tree/master/0268-missing-number) |
