@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/ayushmahandule1208/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushmahandule1208/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayushmahandule1208/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ayushmahandule1208/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushmahandule1208/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ayushmahandule1208/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ayushmahandule1208/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1903-largest-odd-number-in-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ayushmahandule1208/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ayushmahandule1208/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/ayushmahandule1208/Leetcode/tree/master/0860-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushmahandule1208/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
